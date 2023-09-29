@@ -4,8 +4,9 @@
 
  * 🙋‍♀️ Pronouns: She/her/hers;
  * 🌎 Birthplace: Porto Alegre - RS, Brazil;
- * 🎓 Educational background: Bachelor of Physics - Geophysics;
- * 📚 Currently learning: Web Development;
+ * 🎓 Educational background:
+     * 💻 Fullstack Web Development;
+     * ⚛ Bachelor of Physics - Geophysics;
 
 ##
 <h3 align="center">Tools:</h3>
@@ -22,7 +23,32 @@
   -      
   <img align="center" alt="redux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   -
-  <img align="center" alt="jest" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />      
+  <img align="center" alt="jest" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  -
+  <img align="center" alt="jest" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  -
+  <img align="center" alt="jest" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  -
+  <img align="center" alt="jest" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
+  -
+  <img align="center" alt="jest" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  -
+  <img align="center" alt="jest" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+  -
+  <img align="center" alt="jest" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  -
+  <img align="center" alt="jest" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  -
+  <img align="center" alt="jest" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  -
+  <img align="center" alt="jest" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  -
+  <img align="center" alt="jest" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+          
+          
+          
+          
+          
 </div>
 
 ##
