@@ -1,4 +1,4 @@
-<img align="right" height="180em" src="https://media2.giphy.com/media/l4XfgLyXAnyzCh7vfY/200w.webp?cid=ecf05e47x3e5jumnjm3jdj8420sot18myseu8vpecmxmp5m1&rid=200w.webp&ct=g"/>
+<img align="right" height="180em" src="https://media.licdn.com/dms/image/C5612AQF-IC3JLELWPg/article-cover_image-shrink_600_2000/0/1594799617067?e=2147483647&v=beta&t=BP025PDTfJhNxEatJdKahmBZyhcea5cZSQbccNa_ASw"/>
 
 <h1 align="center">Hello, world!</h1>
 
@@ -38,8 +38,8 @@
 ##
 
 <div align="center">
-  <img align="center" height="180em" width="400px" src="https://github-stats-alpha.vercel.app/api?username=nathaliajaracantarelli&cc=000&tc=fff&ic=fff&bc=fff"/>
-  <img align="center" height="180em" width="394px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliajaracantarelli&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="435px" src="https://github-readme-stats.vercel.app/api?username=nathaliajaracantarelli&show_icons=true&theme=github_dark&include_all"/>
+  <img height="180em" width="394px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliajaracantarelli&layout=compact&langs_count=7&theme=github_dark"/>
  </div>
  
 
